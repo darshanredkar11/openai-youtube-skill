@@ -82,10 +82,10 @@ Load only the guides needed for the workflow:
 - `references/dataforseo-integration.md`
 - `references/monetization-guide.md`
 - `references/repurposing-guide.md`
-- `references/retention-scripting-guide.md`
+- `references/retention-scripting.md`
 - `references/seo-playbook.md`
 - `references/shorts-playbook.md`
-- `references/thumbnail-ctr-guide.md`
+- `references/thumbnail-playbook.md`
 
 ## Optional integrations
 
