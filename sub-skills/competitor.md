@@ -1,0 +1,3 @@
+# Competitor Intelligence
+
+Identify 8–15 direct, adjacent and aspirational channels; explain selection. Gather recent/relevant videos and verified metrics when tools permit. Compare channel positioning, topic clusters, formats, title/thumbnail patterns, upload cadence, outliers versus channel baseline, audience comments and monetisation. Identify topic, format, audience and packaging gaps. Extract principles—not scripts, footage, thumbnails or distinctive creative expression. End with 5 original opportunities.
