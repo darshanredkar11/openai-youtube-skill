@@ -1,0 +1,3 @@
+# Monetisation Strategy
+
+Map audience needs to revenue: YPP ads, sponsorship, affiliate, products, services, courses/workshops, memberships, lead generation and SaaS. Rank by audience fit, trust, effort, margin and timing. Use verified rates/data only; otherwise create transparent scenario formulas with assumptions. Include offer ladder, funnel, sponsor-fit categories, 90-day activation plan and risks. Do not recommend monetisation that damages audience trust.
