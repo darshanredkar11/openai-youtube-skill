@@ -1,0 +1,3 @@
+# Analytics Diagnosis
+
+Use actual supplied YouTube Studio data, CSVs or API data. Never fabricate CTR, retention, RPM, conversions or traffic sources. Diagnose the funnel: impressions, CTR, views, first-30-second retention, average view duration, watch time, traffic sources, returning viewers and conversion. Compare against channel baseline and similar format—not generic thresholds alone. Identify the single highest-leverage bottleneck, hypothesis, experiment, primary metric, observation window and decision rule.
