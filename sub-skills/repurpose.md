@@ -1,0 +1,3 @@
+# Repurposing
+
+Use the source video/transcript and identify distinct ideas, not arbitrary clips. Produce platform-specific assets: 2–5 Shorts with timestamps and rewritten hooks; LinkedIn post; X thread; newsletter; blog outline; community post; podcast outline where appropriate. Preserve factual context, avoid duplicate wording across platforms, include CTA and platform constraints. Mark assets requiring human review.
