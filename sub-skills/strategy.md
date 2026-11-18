@@ -1,0 +1,3 @@
+# Channel Strategy
+
+Define audience, specific recurring problem/desire, channel promise, positioning, differentiator, 3–5 content pillars, Hub/Hero/Help balance, repeatable formats, production constraints, monetisation ladder, cadence and 30/60/90-day milestones. Validate niche with evidence and competitor gaps. Provide a one-sentence positioning statement and a list of formats the creator should avoid. Load channel-type template when available.
