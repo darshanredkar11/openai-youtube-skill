@@ -38,7 +38,7 @@ class SmokeTests(unittest.TestCase):
         ] + [{"channel":"Small","title":"One","views":10}]
         with tempfile.NamedTemporaryFile("w", suffix=".json", encoding="utf-8") as f:
             json.dump(payload, f); f.flush()
-            r = run_script("scripts/yt-viral/swipe.py", f.name, "--min", "1", "--json")
+            r = run_script("scripts/yt-viral/swipe.py", f.name, "--min", "1.5", "--json")
         self.assertEqual(r.returncode, 0, r.stderr)
         data = json.loads(r.stdout)
         self.assertEqual(len(data["outliers"]), 1)
