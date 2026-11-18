@@ -1,0 +1,3 @@
+# Content Calendar
+
+Create a realistic 4-week calendar using validated pillars and available production capacity. Each entry includes date/week, topic, format, audience problem, title concept, hook angle, production effort, goal, CTA and dependency. Balance evergreen, timely and experiments. Include Shorts only when they support the channel strategy. Explain why the sequence compounds rather than being a random list. Never assume daily publishing is optimal.
