@@ -1,0 +1,3 @@
+# Video Research
+
+Research a specific video topic before scripting. Establish the audience question, search/browse intent, current facts, primary sources, competing videos, audience comments/questions and unresolved gaps. Build a claim ledger: claim, source, date, confidence, and whether it belongs in the script. Prefer primary sources. Record citations and fact-check limitations. Never fabricate source quotes or metrics.
