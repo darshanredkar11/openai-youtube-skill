@@ -17,3 +17,8 @@ The upstream project is MIT licensed. Its original MIT licence is preserved in
 `licenses/jakeschincariol-MIT.txt`. Python scripts include an attribution
 header. `deadair.py` has a small compatibility fix for Whisper JSON files
 whose top-level value is an array rather than an object.
+
+
+## Claude YouTube skill port
+
+The workflow instructions, reference guides, channel templates, and YouTube API execution scripts in this repository are adapted from **AgriciDaniel/claude-youtube** (https://github.com/AgriciDaniel/claude-youtube), licensed under the MIT License. The upstream MIT license is preserved in `licenses/agricidaniel-MIT.txt`. OpenAI-specific adaptations are documented in this repository. The original project and author retain attribution for their upstream material.
