@@ -1,0 +1,3 @@
+# Video Ideation
+
+Generate 10 ranked ideas grounded in research, audience problems and channel strategy. For each: concept, viewer, promise, evidence, freshness, competition, originality, production effort, evergreen potential, monetisation fit, title, hook, thumbnail concept and confidence. Separate verified signals from hypotheses. Use the channel's prior uploads to avoid repetition. Recommend top 3 and a validation test before production.
