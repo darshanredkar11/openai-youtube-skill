@@ -12,8 +12,8 @@ UPSTREAM_WORKFLOWS = [
 UPSTREAM_REFERENCES = [
     "algorithm-guide.md", "analytics-guide.md", "dataforseo-integration.md",
     "monetization-guide.md", "repurposing-guide.md",
-    "retention-scripting-guide.md", "seo-playbook.md", "shorts-playbook.md",
-    "thumbnail-ctr-guide.md",
+    "retention-scripting.md", "seo-playbook.md", "shorts-playbook.md",
+    "thumbnail-playbook.md",
 ]
 
 UPSTREAM_TEMPLATES = [
