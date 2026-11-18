@@ -1,0 +1,3 @@
+# Thumbnail Strategy
+
+Create 3–5 distinct thumbnail concepts paired with candidate titles. Each brief specifies focal subject, composition, emotion/action, background, contrast, text (0–4 words), mobile legibility and title-thumbnail synergy. Avoid duplicating title text. Include image prompt only when requested; do not imply generated thumbnails were tested. If channel references exist, respect brand style. Provide an A/B hypothesis for each concept.
